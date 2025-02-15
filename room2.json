@@ -1,0 +1,7 @@
+{
+"storeHouse": [
+{"sourceName":"多多优选仓","sourceUrl":"https://raw.githubusercontent.com/asedweq/room/refs/heads/main/1.txt"},
+{"sourceName":"多多公众仓","sourceUrl":"https://raw.githubusercontent.com/asedweq/room/refs/heads/main/2.txt"},
+{"sourceName":"多多聚合仓","sourceUrl":"https://raw.githubusercontent.com/asedweq/room/refs/heads/main/3.txt"},
+{"sourceName":"️多多本地仓","sourceUrl":"clan://localhost/tvbox/duo.json"}
+]}
